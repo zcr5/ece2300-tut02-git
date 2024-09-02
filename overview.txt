@@ -1,0 +1,37 @@
+
+The field of computer engineering is at the interface between electrical
+engineering and computer science and seeks to balance the tension between
+application requirements and technology constraints. Digital logic and
+computer organization form the heart of computer engineering: digital
+logic transforms low-level circuits into hardware blocks dedicated to
+processing, storing, and moving digital data; and computer organization
+transforms these hardware blocks into programmable computing systems
+capable of executing high-level software. This course aims to provide a
+comprehensive introduction to the principle and practice of digital logic
+and computer organization. The course will demystify how computer
+hardware works and at the same time serve as a foundation for more
+advanced courses in embedded systems and computer architecture.
+
+The course lectures are structured into four parts. In the first part,
+students will learn about combinational digital logic (e.g., digital
+circuits, logic gates, Boolean algebra, decoders, muxes, arithmetic
+units). In the second part, students will learn about sequential digital
+logic (e.g., latches, flip-flops, finite-state machines, counters, shift
+registers, memory arrays). In the third part, students will leverage
+their understanding of digital logic to explore computer processor
+organization (e.g., instruction set architecture, single-cycle
+processors, FSM processors, pipelined processors). In the fourth part,
+students will focus on computer memory organization (e.g., main memory,
+virtual memory, caches).
+
+The course includes hands-on discussion sections and a series of five
+laboratory assignments for students to put the principles they have
+learned into practice. These laboratory assignments will make extensive
+use of the Verilog hardware description language. Students will use
+open-source tools to model and simulate hardware using Verilog, before
+using commercial tools to synthesize their Verilog designs to
+field-programmable gate arrays (FPGAs) in the lab. Throughout the
+semester, students will gradually design, implement, test, and evaluate a
+simple calculator, a music player, and a programmable processor capable
+of running simple RISC-V assembly programs.
+
